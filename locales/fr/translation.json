@@ -1,0 +1,143 @@
+{
+  "header": {
+    "title": "Générateur de prompt Nano Banana",
+    "subtitle": "Créer des prompts hyperréalistes pour l'art IA visionnaire."
+  },
+  "form": {
+    "subject1": "Sujet Principal",
+    "subject1_placeholder": "ex: Éléphant",
+    "subject2": "Sujet / Élément Secondaire",
+    "subject2_placeholder": "ex: Papillon",
+    "mergeSubjects": "Fusionner les Sujets",
+    "realism": "Style / Réalisme",
+    "realism_placeholder": "ex: Photoréaliste, ou tapez le vôtre",
+    "lighting": "Style d'Éclairage",
+    "lighting_placeholder": "ex: Néon Noir, ou tapez le vôtre",
+    "setting": "Décor / Environnement",
+    "setting_placeholder": "ex: Forêt Enchantée, ou tapez le vôtre",
+    "framing": "Cadrage / Plan",
+    "framing_placeholder": "ex: Plan Macro, ou tapez le vôtre",
+    "texture": "Textures Clés",
+    "texture_placeholder": "ex: Cuiré et résistant, ou tapez le vôtre",
+    "emotion": "Émotion / Ambiance Dominante",
+    "emotion_placeholder": "ex: Serein et calme, ou tapez le vôtre",
+    "button_generating": "Génération...",
+    "button_generate": "Générer le Prompt"
+  },
+  "display": {
+    "title": "Prompt Généré",
+    "placeholder": "Votre prompt généré apparaîtra ici...",
+    "copy": "Copier",
+    "copied": "Copié !"
+  },
+  "library": {
+    "title": "Bibliothèque d'Inspiration",
+    "random": {
+      "title": "Idée Aléatoire",
+      "description": "Cliquez pour générer un prompt entièrement aléatoire."
+    }
+  },
+  "footer": {
+    "text": "Conçu pour l'artiste numérique moderne. Propulsé par Gemini."
+  },
+  "ideas": {
+    "sushi_dragon": {
+      "title": "Sculpture d'Art Sushi",
+      "description": "Une sculpture de dragon complexe entièrement faite de sushis et sashimis frais et colorés.",
+      "subject1": "Sculpture de dragon",
+      "subject2": "Sushi et sashimi",
+      "texture": "Poisson brillant, riz collant",
+      "emotion": "Appétissant et artistique"
+    },
+    "clockwork_hummingbird": {
+      "title": "Colibri Mécanique",
+      "description": "Un minuscule colibri mécanique fabriqué à partir d'engrenages en laiton et de cuivre poli.",
+      "subject1": "Colibri",
+      "subject2": "Mécanisme d'horlogerie",
+      "texture": "Laiton poli, engrenages complexes",
+      "emotion": "Complexe et délicat"
+    },
+    "cactus_cat": {
+      "title": "Chat Cactus",
+      "description": "Une créature féline dont la fourrure est remplacée par la peau verte et épineuse d'un cactus saguaro.",
+      "subject1": "Chat",
+      "subject2": "Cactus Saguaro",
+      "texture": "Peau de cactus épineuse, ventre doux",
+      "emotion": "Curieux mais prudent"
+    }
+  },
+  "options": {
+    "realism_photorealistic": "Photoréaliste",
+    "realism_cinematic_render": "Rendu Cinématographique",
+    "realism_realistic_cgi": "Rendu 3D Réaliste (CGI)",
+    "realism_toon_style": "Style Cartoon",
+    "realism_claymation": "Style Pâte à Modeler",
+    "realism_childrens_book": "Illustration de Livre pour Enfants",
+    "realism_vintage_comic": "Bande Dessinée Vintage",
+    "lighting_soft_studio": "Éclairage de Studio Doux",
+    "lighting_dramatic_rim": "Éclairage en Contre-jour Dramatique",
+    "lighting_golden_hour": "Lumière du Soleil de l'Heure Dorée",
+    "lighting_neon_noir": "Néon Noir",
+    "lighting_misty_morning": "Matin Brumeux",
+    "lighting_70s_disco_neon": "Néon Disco Années 70",
+    "lighting_bioluminescent_glow": "Lueur Bioluminescente",
+    "lighting_rembrandt": "Éclairage Rembrandt",
+    "setting_minimalist_studio": "Studio Minimaliste",
+    "setting_enchanted_forest": "Forêt Enchantée",
+    "setting_cyberpunk_cityscape": "Paysage Urbain Cyberpunk",
+    "setting_baroque_interior": "Intérieur Baroque",
+    "setting_volcanic_plains": "Plaines Volcaniques",
+    "setting_sunken_treasure_ship": "Épave de Bateau Trésor",
+    "setting_retro_futuristic_diner": "Diner Rétrofuturiste",
+    "setting_floating_sky_islands": "Îles Célestes Flottantes",
+    "framing_extreme_close_up": "Très Gros Plan",
+    "framing_medium_shot": "Plan Moyen",
+    "framing_full_body_shot": "Plan d'Ensemble",
+    "framing_dutch_angle": "Angle Penché",
+    "framing_macro_shot": "Plan Macro",
+    "texture_smooth_glossy": "Lisse et brillant",
+    "texture_rough_weathered": "Rugeux et usé",
+    "texture_fluffy_soft": "Doux et duveteux",
+    "texture_metallic_cold": "Métallique et froid",
+    "texture_slimy_wet": "Visqueux et humide",
+    "texture_glowing_ethereal": "Brillant et éthéré",
+    "texture_crystalline_sharp": "Cristallin et tranchant",
+    "texture_leathery_tough": "Cuiré et résistant",
+    "texture_mossy_damp": "Moussu et humide",
+    "texture_polished_wood": "Grain de bois poli",
+    "emotion_epic_grand": "Épique et grandiose",
+    "emotion_peaceful_tranquil": "Paisible et tranquille",
+    "emotion_ominous_threatening": "Sinistre et menaçant",
+    "emotion_joyful_vibrant": "Joyeux et vibrant",
+    "emotion_mysterious_enigmatic": "Mystérieux et énigmatique",
+    "emotion_whimsical_playful": "Fantasque et enjoué",
+    "emotion_melancholic_somber": "Mélancolique et sombre",
+    "emotion_awe_inspiring_majestic": "Impressionnant et majestueux",
+    "emotion_tense_suspenseful": "Tendu et plein de suspense",
+    "emotion_serene_calm": "Serein et calme"
+  },
+  "random": {
+    "subjects": {
+      "primary": {
+        "dragon": "Dragon",
+        "robot": "Robot",
+        "tree": "Arbre Conscient",
+        "fox": "Renard",
+        "castle": "Château",
+        "wizard": "Sorcier",
+        "phoenix": "Phénix",
+        "library": "Bibliothèque"
+      },
+      "secondary": {
+        "crystal": "Cristal",
+        "fire": "Feu",
+        "jellyfish": "Méduse",
+        "gears": "Engrenages",
+        "nebula": "Nébuleuse",
+        "music": "Musique",
+        "dreams": "Rêves",
+        "time": "Temps"
+      }
+    }
+  }
+}

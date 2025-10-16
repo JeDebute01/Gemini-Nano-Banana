@@ -1,0 +1,143 @@
+{
+  "header": {
+    "title": "Nano Banana Prompt Generator",
+    "subtitle": "Crafting hyperrealistic prompts for visionary AI art."
+  },
+  "form": {
+    "subject1": "Primary Subject",
+    "subject1_placeholder": "e.g., Elephant",
+    "subject2": "Secondary Subject / Element",
+    "subject2_placeholder": "e.g., Butterfly",
+    "mergeSubjects": "Merge Subjects",
+    "realism": "Style / Realism",
+    "realism_placeholder": "e.g., Photorealistic, or type your own",
+    "lighting": "Lighting Style",
+    "lighting_placeholder": "e.g., Neon Noir, or type your own",
+    "setting": "Setting / Environment",
+    "setting_placeholder": "e.g., Enchanted Forest, or type your own",
+    "framing": "Framing / Shot",
+    "framing_placeholder": "e.g., Macro Shot, or type your own",
+    "texture": "Key Textures",
+    "texture_placeholder": "e.g., Leathery and tough, or type your own",
+    "emotion": "Dominant Emotion / Mood",
+    "emotion_placeholder": "e.g., Serene and calm, or type your own",
+    "button_generating": "Generating...",
+    "button_generate": "Generate Prompt"
+  },
+  "display": {
+    "title": "Generated Prompt",
+    "placeholder": "Your generated prompt will appear here...",
+    "copy": "Copy",
+    "copied": "Copied!"
+  },
+  "library": {
+    "title": "Inspiration Library",
+    "random": {
+      "title": "Random Idea",
+      "description": "Click to generate a completely random prompt from scratch."
+    }
+  },
+  "footer": {
+    "text": "Built for the modern digital artist. Powered by Gemini."
+  },
+  "ideas": {
+    "sushi_dragon": {
+      "title": "Sushi Art Sculpture",
+      "description": "An intricate dragon sculpture made entirely of vibrant, fresh sushi and sashimi.",
+      "subject1": "Dragon sculpture",
+      "subject2": "Sushi and sashimi",
+      "texture": "Glossy fish, sticky rice",
+      "emotion": "Appetizing and artistic"
+    },
+    "clockwork_hummingbird": {
+      "title": "Clockwork Hummingbird",
+      "description": "A tiny, mechanical hummingbird crafted from brass gears and polished copper.",
+      "subject1": "Hummingbird",
+      "subject2": "Clockwork mechanism",
+      "texture": "Polished brass, intricate gears",
+      "emotion": "Intricate and delicate"
+    },
+    "cactus_cat": {
+      "title": "Cactus Cat",
+      "description": "A feline creature whose fur is replaced by the green, prickly skin of a saguaro cactus.",
+      "subject1": "Cat",
+      "subject2": "Saguaro cactus",
+      "texture": "Prickly cactus skin, soft underbelly",
+      "emotion": "Curious yet cautious"
+    }
+  },
+  "options": {
+    "realism_photorealistic": "Photorealistic",
+    "realism_cinematic_render": "Cinematic Render",
+    "realism_realistic_cgi": "Realistic CGI Render",
+    "realism_toon_style": "Toon Style",
+    "realism_claymation": "Claymation",
+    "realism_childrens_book": "Children's Book Illustration",
+    "realism_vintage_comic": "Vintage Comic Book",
+    "lighting_soft_studio": "Soft Studio Lighting",
+    "lighting_dramatic_rim": "Dramatic Rim Lighting",
+    "lighting_golden_hour": "Golden Hour Sunlight",
+    "lighting_neon_noir": "Neon Noir",
+    "lighting_misty_morning": "Misty Morning",
+    "lighting_70s_disco_neon": "70s Disco Neon",
+    "lighting_bioluminescent_glow": "Bioluminescent Glow",
+    "lighting_rembrandt": "Rembrandt Lighting",
+    "setting_minimalist_studio": "Minimalist Studio",
+    "setting_enchanted_forest": "Enchanted Forest",
+    "setting_cyberpunk_cityscape": "Cyberpunk Cityscape",
+    "setting_baroque_interior": "Baroque Interior",
+    "setting_volcanic_plains": "Volcanic Plains",
+    "setting_sunken_treasure_ship": "Sunken Treasure Ship",
+    "setting_retro_futuristic_diner": "Retro-Futuristic Diner",
+    "setting_floating_sky_islands": "Floating Sky Islands",
+    "framing_extreme_close_up": "Extreme Close-Up",
+    "framing_medium_shot": "Medium Shot",
+    "framing_full_body_shot": "Full Body Shot",
+    "framing_dutch_angle": "Dutch Angle",
+    "framing_macro_shot": "Macro Shot",
+    "texture_smooth_glossy": "Smooth and glossy",
+    "texture_rough_weathered": "Rough and weathered",
+    "texture_fluffy_soft": "Fluffy and soft",
+    "texture_metallic_cold": "Metallic and cold",
+    "texture_slimy_wet": "Slimy and wet",
+    "texture_glowing_ethereal": "Glowing and ethereal",
+    "texture_crystalline_sharp": "Crystalline and sharp",
+    "texture_leathery_tough": "Leathery and tough",
+    "texture_mossy_damp": "Mossy and damp",
+    "texture_polished_wood": "Polished wood grain",
+    "emotion_epic_grand": "Epic and grand",
+    "emotion_peaceful_tranquil": "Peaceful and tranquil",
+    "emotion_ominous_threatening": "Ominous and threatening",
+    "emotion_joyful_vibrant": "Joyful and vibrant",
+    "emotion_mysterious_enigmatic": "Mysterious and enigmatic",
+    "emotion_whimsical_playful": "Whimsical and playful",
+    "emotion_melancholic_somber": "Melancholic and somber",
+    "emotion_awe_inspiring_majestic": "Awe-inspiring and majestic",
+    "emotion_tense_suspenseful": "Tense and suspenseful",
+    "emotion_serene_calm": "Serene and calm"
+  },
+  "random": {
+    "subjects": {
+      "primary": {
+        "dragon": "Dragon",
+        "robot": "Robot",
+        "tree": "Sentient Tree",
+        "fox": "Fox",
+        "castle": "Castle",
+        "wizard": "Wizard",
+        "phoenix": "Phoenix",
+        "library": "Library"
+      },
+      "secondary": {
+        "crystal": "Crystal",
+        "fire": "Fire",
+        "jellyfish": "Jellyfish",
+        "gears": "Gears",
+        "nebula": "Nebula",
+        "music": "Music",
+        "dreams": "Dreams",
+        "time": "Time"
+      }
+    }
+  }
+}
